@@ -2,7 +2,7 @@
 title: "Notebook"
 author: "Elizabeth Madin"
 date: "14/05/2019"
-output: html_document
+output: github.document
 ---
 
 # Elizabeth's Notebook
