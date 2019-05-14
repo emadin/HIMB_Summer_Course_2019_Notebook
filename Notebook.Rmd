@@ -8,6 +8,7 @@ output: html_document
 # Elizabeth's Notebook
 
 ## Day 2 - R Module
+Today is a day of fun coding. 
 
 The summer course started yesterday. We:
 
