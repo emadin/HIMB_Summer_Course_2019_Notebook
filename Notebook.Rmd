@@ -1,0 +1,38 @@
+---
+title: "Notebook"
+author: "Elizabeth Madin"
+date: "14/05/2019"
+output: html_document
+---
+
+# Elizabeth's Notebook
+
+## Day 2 - R Module
+
+The summer course started yesterday. We:
+
+- Ran over introductions
+- Did and island tour
+- Went shopping
+
+Here is a website I like: <http://oceansphere.org>
+
+Here is a cool pic of the place: 
+
+![HIMB](data/Unknown.jpeg){width=90%}
+
+Here's an equation:
+
+$$ x^2 = \frac{y^2}{z^2} $$
+
+
+
+```{r, echo=TRUE}
+hist(rnorm(1000))
+```
+
+
+
+
+
+
